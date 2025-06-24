@@ -1,8 +1,5 @@
 
 # 🚀 x2social
-
-> **Auto-magically broadcast tweets to WhatsApp, Telegram & Facebook Messenger!**
-
 **x2social** is a Python-powered automation tool that monitors a specific Twitter account (currently [@ghazayel](https://x.com/ghazayel)) and instantly shares every new tweet to WhatsApp, Telegram, and Facebook Messenger using headless browser automation via Selenium.
 
 ---
